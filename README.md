@@ -13,10 +13,12 @@ A minimal multi-user chat app using **Python sockets** + **Tkinter**.
 
 ## Screenshot
 
-![Chat App](chat-app1.png)
-![Chat App](chat-app2.png)
-![Chat App](chat-app3.png)
-![Chat App](chat-app4.png)
+## Screenshots
+
+<img src="chat-app1.png" width="700">
+<img src="chat-app2.png" width="700">
+<img src="chat-app3.png" width="700">
+<img src="chat-app4.png" width="700">
 
 ## Requirements
 - Python 3.10+ (uses `X | None` type hints)
