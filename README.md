@@ -10,6 +10,14 @@ A minimal multi-user chat app using **Python sockets** + **Tkinter**.
 - `server.py` — multi-threaded TCP chat server
 - `client.py` — Tkinter GUI chat client
 
+
+## Screenshot
+
+![Chat App](chat-app1.png)
+![Chat App](chat-app2.png)
+![Chat App](chat-app3.png)
+![Chat App](chat-app4.png)
+
 ## Requirements
 - Python 3.10+ (uses `X | None` type hints)
 - No external packages — everything is standard library
